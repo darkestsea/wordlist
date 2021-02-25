@@ -1,7 +1,7 @@
 To use wordlist, go to the wordlist.py directory and download the <python3 wordlist.py> command
 interleave and enter consecutive probabilities i.e:
 1/2/3/                                                                                                                                                                            
-1                                                                                                                                                                                     
+1                                                                                                                                                                                   
 2                                                                                                                                                                           
 3                                                                                                                                                                            
 12                                                                                                                                                                            
